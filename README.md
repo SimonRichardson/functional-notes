@@ -8,6 +8,7 @@ The target language is using Javascript for the examples.
 
 ### Contents
 
-1. [Compose](notes/compose.md)
-2. [Flip](notes/flip.md)
-3. [Identity](notes/identity.md)
+1. [Apply](notes/apply.md)
+2. [Compose](notes/compose.md)
+3. [Flip](notes/flip.md)
+4. [Identity](notes/identity.md)
