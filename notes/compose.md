@@ -1,12 +1,9 @@
 # Compose
 
-------
-
-## 
+## Reference
 
 The `compose` combinator, also known as `B` Combinator from [Schönfinkel](http://en.wikipedia.org/wiki/Moses_Sch%C3%B6nfinkel)'s paper, is a way to apply "Function Composition". By applying one function to the results of another.
 
-------
 
 ## Code
 
@@ -28,8 +25,6 @@ function compose(f) {
 }
 ```
 
------
-
 ## Example
 
 ### Javascript
@@ -46,8 +41,6 @@ function b(x) {
 console.log(compose(a)(b)([4, 2, 3, 1])); // Outputs: 4, 3, 2, 1
 ```
 
------
-
-### See
+## See
 
 - [flip](flip.md) combinator
