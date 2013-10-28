@@ -24,7 +24,7 @@ function apply(f) {
 
 ## Example
 
-The following example uses the flip combinator to first capture the compose combindator then call reverse; then sort. The reverse function is called first, then sort function because the arguments are flipped via the combinator.
+The following example applies the value of `1` to the function of `inc`, with the sole purpose in incrementing the `x` value by `1`.
 
 ```javascript
 function inc(x) {
