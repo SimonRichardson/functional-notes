@@ -9,12 +9,11 @@ The target language is using Javascript for the examples.
 ### Contents
 
 * Combinators
-
-  1. [Apply](notes/apply.md)
-  2. [Compose](notes/compose.md)
-  3. [Constant](notes/constant.md)
-  4. [Fix](notes/fix.md)
-  5. [Flip](notes/flip.md)
-  6. [Identity](notes/identity.md)
-  7. [Substitution](notes/substitution.md)
-  8. [Thrush](notes/thrush.md)
+    1. [Apply](notes/apply.md)
+    2. [Compose](notes/compose.md)
+    3. [Constant](notes/constant.md)
+    4. [Fix](notes/fix.md)
+    5. [Flip](notes/flip.md)
+    6. [Identity](notes/identity.md)
+    7. [Substitution](notes/substitution.md)
+    8. [Thrush](notes/thrush.md)
