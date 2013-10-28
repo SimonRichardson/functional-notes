@@ -41,4 +41,4 @@ console.log(flip(compose)(a)(b)([4, 2, 3, 1])); // Outputs: 1, 2, 3, 4
 
 ## See
 
-- [compose](compose.md) combinator
+- [Compose](compose.md) combinator

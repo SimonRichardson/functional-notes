@@ -4,7 +4,7 @@
 
 The `identity` combinator, also known as `I` Combinator from [Schönfinkel](http://en.wikipedia.org/wiki/Moses_Sch%C3%B6nfinkel)'s paper. Considered one of the simplist combinators, the identity combinator is defined as: 
 
-### Notes:
+#### Notes:
 
 Identity is considered both Idempotent and Referential Transparent.
 
