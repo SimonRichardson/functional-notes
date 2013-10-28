@@ -9,3 +9,4 @@ The target language is using Javascript for the examples.
 ### Contents
 
 1. [Compose](notes/compose.md)
+2. [Flip](notes/flip.md)

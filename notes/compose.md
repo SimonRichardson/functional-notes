@@ -27,9 +27,7 @@ function compose(f) {
 
 ## Example
 
-### Javascript
-
-The following example uses the compose function to first sort the array, then to reverse it.
+The following example uses the compose combinator to first call sort, then to call reverse on the array passed in.
 
 ```javascript
 function a(x) {
