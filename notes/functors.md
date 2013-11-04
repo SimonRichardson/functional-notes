@@ -62,3 +62,6 @@ console.log(Maybe(3).fmap(function(x) {
 ## See
 
 - [Monads](monads.md) Monads
+- [Taking Things Out of Context: Functors](https://medium.com/the-javascript-collection/d80b4c94b90f)
+- [Making Our Own Types and Typeclasses](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#the-functor-typeclass)
+- [Functors, Applicative Functors and Monoids](http://learnyouahaskell.com/functors-applicative-functors-and-monoids)
