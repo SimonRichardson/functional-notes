@@ -19,7 +19,7 @@ The target language is using Javascript for the examples.
     8. [Thrush](notes/thrush.md)
 * [Foldables](notes/foldable.md)
 * [Reducables](notes/reduceable.md)
-* [Functors](notes/functor.md)
+* [Functors](notes/functors.md)
 * [Semigroups](notes/semigroup.md)
 * [Monads](notes/monad.md)
 * [MonadPlus](notes/monad-plus.md)
