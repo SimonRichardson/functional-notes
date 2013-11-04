@@ -17,8 +17,6 @@ The target language is using Javascript for the examples.
     6. [Identity](notes/identity.md)
     7. [Substitution](notes/substitution.md)
     8. [Thrush](notes/thrush.md)
-* [Foldables](notes/foldable.md)
-* [Reducables](notes/reduceable.md)
 * [Functors](notes/functors.md)
 * [Semigroups](notes/semigroup.md)
 * [Monads](notes/monad.md)
