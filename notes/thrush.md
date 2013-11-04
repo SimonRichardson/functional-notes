@@ -11,7 +11,7 @@ This is very similar to the Apply combinator, except the arguments are swapped, 
 
 ## Code
 
-### Psuedo code
+### Pseudo code
 
 ```
 (C f x y) = (f y x)

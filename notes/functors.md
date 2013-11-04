@@ -6,7 +6,7 @@ A functor is a type of mapping between categories, with that; `Functors` are bas
 
 ## Code
 
-### Psuedo code
+### Pseudo code
 
 ```
 f(a -> b) -> f a -> f b
@@ -45,7 +45,7 @@ f(b -> a) -> f a -> f b
 
 ## Example
 
-Introducting the `Maybe` type, which says that whatever context our function is mapping over might or it might not. If it does contain a value then run the function against it, but if it doesn't then don't run the function at all and return the Maybe back. This is a really handy little functor as it's basically an abstracted null check that we can map over!
+Introducing the `Maybe` type, which says that whatever context our function is mapping over might or it might not. If it does contain a value then run the function against it, but if it doesn't then don't run the function at all and return the Maybe back. This is a really handy little functor as it's basically an abstracted null check that we can map over!
 
 ```javascript
 var Maybe = function(val) {
@@ -54,14 +54,14 @@ var Maybe = function(val) {
 Maybe.prototype.fmap = function(f) {
     return this.val ? Maybe(f(this.val)) : Maybe(null);  
 };
-console.log(Maybe(3).fmap(function(x) {
+console.log(new Maybe(3).fmap(function(x) {
     return x + 1;
 })); // Outputs: Maybe(4)
 ```
 
 ## See
 
-- [Monads](monads.md) Monads
+- [Monads](monads.md)
 - [Taking Things Out of Context: Functors](https://medium.com/the-javascript-collection/d80b4c94b90f)
 - [Making Our Own Types and Typeclasses](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#the-functor-typeclass)
 - [Functors, Applicative Functors and Monoids](http://learnyouahaskell.com/functors-applicative-functors-and-monoids)

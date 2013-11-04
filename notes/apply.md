@@ -10,7 +10,7 @@ This is very similar to the Thrush combinator, except the arguments are swapped,
 
 ## Code
 
-### Psuedo code
+### Pseudo code
 
 ```
 (A f x) = (f x)

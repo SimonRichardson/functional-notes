@@ -10,7 +10,7 @@ The `substitution` combinator, also known as `S` Combinator from [Schönfinkel](
 
 ## Code
 
-### Psuedo code
+### Pseudo code
 
 ```
 (S x y z) = (x z (y z))

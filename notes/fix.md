@@ -13,7 +13,7 @@ The `Y` combinator can be expressed in the [SKI-calculus](http://en.wikipedia.or
 
 ## Code
 
-### Psuedo code
+### Pseudo code
 
 ```
 Y = λf.(λx.f (x x)) (λx.f (x x))

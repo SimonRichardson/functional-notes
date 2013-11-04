@@ -10,7 +10,7 @@ Identity is considered both Idempotent and Referential Transparent.
 
 ## Code
 
-### Psuedo code
+### Pseudo code
 
 ```
 (I x) = x

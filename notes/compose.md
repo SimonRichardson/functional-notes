@@ -7,7 +7,7 @@ The `compose` combinator, also known as `B` Combinator from [Schönfinkel](http:
 
 ## Code
 
-### Psuedo code
+### Pseudo code
 
 ```
 (B f g x) = (f (g x))

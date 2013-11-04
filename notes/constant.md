@@ -6,7 +6,7 @@ The `constant` combinator, also known as `K` Combinator from [Schönfinkel](http
 
 ## Code
 
-### Psuedo code
+### Pseudo code
 
 ```
 ((K x) y) = x

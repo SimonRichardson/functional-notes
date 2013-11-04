@@ -7,7 +7,7 @@ The `flip` combinator, also known as `C` Combinator from [Schönfinkel](http://e
 
 ## Code
 
-### Psuedo code
+### Pseudo code
 
 ```
 (C f x y) = (f y x)
